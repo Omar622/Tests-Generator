@@ -1,4 +1,4 @@
 .vscode
-generator.cpp
-Tests
 **/*.exe
+Tests_Generator
+generator
